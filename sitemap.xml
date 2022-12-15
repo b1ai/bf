@@ -6,6 +6,10 @@
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 <url>
   <loc>https://bf.pages.dev/</loc>
+  <loc>https://bf.pages.dev/#about</loc>
+  <loc>https://bf.pages.dev/#services</loc>
+  <loc>https://bf.pages.dev/#team</loc>
+  <loc>https://bf.pages.dev/#contact</loc>
   <lastmod>2022-10-06T12:22:40+00:00</lastmod>
 </url>
 </urlset>
